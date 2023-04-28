@@ -1,0 +1,2 @@
+# fizzbuzz
+Ruby演習
